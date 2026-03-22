@@ -1,0 +1,1 @@
+//Command to list per game. Right now, only takes one game
