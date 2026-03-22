@@ -1,1 +1,0 @@
-//Return a Riftbreakers store link
